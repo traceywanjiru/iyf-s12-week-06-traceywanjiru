@@ -59,4 +59,4 @@ A responsive Weather Dashboard web application built using modern asynchronous J
 
 ## Live Demo (if deployed)
 
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo](https://traceywanjiru.github.io/iyf-s12-week-06-traceywanjiru/)
