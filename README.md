@@ -25,10 +25,7 @@ Brief description of what you built and why.
 
 ## How to Run
 
-1. Clone this repository
-2. Open `index.html` in your browser
-   OR
-   Run `npm install` then `npm start`
+copy config.example.js to config.js and add your key.
 
 ## Lessons Learned
 
